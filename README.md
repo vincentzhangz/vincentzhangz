@@ -8,6 +8,7 @@
 #### Languages I use
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%20sharp)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![GraphQl](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
@@ -50,5 +51,5 @@
 
 [website]: https://vincentzhangz.com
 [linkedin]: https://www.linkedin.com/in/vincentzhangz
-[facebook]: https://www.facebook.com/vincentzhangz
+[facebook]: https://www.facebook.com/vincentzhangzz
 [instagram]: https://instagram.com/vincentzhangz
