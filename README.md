@@ -61,7 +61,7 @@
 
 <br>
 
-![vincentzhangz's github stats](https://github-readme-stats.vincentzhangz.vercel.app/api?username=vincentzhangz&show_icons=true)
+![vincentzhangz's github stats](https://github-readme-stats.vincentzhangz.vercel.app/api?username=vincentzhangz&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true)
 
 <br>
 
