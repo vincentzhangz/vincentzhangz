@@ -1,17 +1,21 @@
-<div align="center">
-
 ### Hi there, I'm Vincent <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-## I'm a Binus University Computer Science Student, Developer, and Teaching Assistant at Binus University!
+## I am
 
-- 🌱 I’m currently learning flutter and A.I
+- 😃 a Binus University Computer Science Student, Developer, and Teaching Assistant at Binus University!
+- 🌱 currently learning flutter and A.I
+- 💡 proficient in Web and DevOps Technologies
 
-<img src="./octocat.png" alt="octocat" height="300">
+<div align="right">
+    <img src="./octocat.png" alt="octocat" height="300" align="right">
+</div>
 
 <br>
 <br>
 
-#### Languages I use
+## Languages I use
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/-C-303030?style=flat&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-303030?style=flat&logo=c%20sharp)
@@ -29,23 +33,37 @@
 ![Swift](https://img.shields.io/badge/-Swift-303030?style=flat&logo=swift)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-303030?style=flat&logo=typescript)
 
-### Framework and technologies I use
+</div>
+
+## Web Framework and technologies I use
+
+<div align="center">
 
 ![Angular](https://img.shields.io/badge/-Angular-303030?style=flat&logo=angular&logoColor=DD0031)
 ![Flutter](https://img.shields.io/badge/-Flutter-303030?style=flat&logo=flutter)
 ![GraphQl](https://img.shields.io/badge/-GraphQL-303030?style=flat&logo=graphql)
 ![Laravel](https://img.shields.io/badge/-Laravel-303030?style=flat&logo=laravel&logoColor=FF2D20)
+![NestJS](https://img.shields.io/badge/-NestJS-303030?style=flat&logo=nestjs&logoColor=E0234E)
 
-### Database I use
+</div>
+
+## Database I use
+
+<div align="center">
 
 ![Firebase](https://img.shields.io/badge/-Firebase-303030?style=flat&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-303030?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-303030?style=flat&logo=mysql&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-303030?style=flat&logo=postgresql&logoColor=336791)
 
-#### Some of the technologies I have worked with
+</div>
+
+## Some of the technologies I have worked with
+
+<div align="center">
 
 ![Apache](https://img.shields.io/badge/-Apache-303030?style=flat&logo=apache&logoColor=D22128)
+![Docker](https://img.shields.io/badge/-Docker-303030?style=flat&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-303030?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-303030?style=flat&logo=github&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-303030?style=flat&logo=linux&logoColor=FCC624)
@@ -53,14 +71,22 @@
 ![NginX](https://img.shields.io/badge/-NginX-303030?style=flat&logo=nginx)
 ![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat&logo=node.js&logoColor=339933)
 
-### Editor I use
+</div>
+
+## Editor I use
+
+<div align="center">
 
 ![VsCode](https://img.shields.io/badge/-VSCode-303030?style=flat&logo=visual-studio-code&logoColor=1575F9)
 ![XCode](https://img.shields.io/badge/-XCode-303030?style=flat&logo=XCode&logoColor=1575F9)
 
+</div>
+
 <br>
 
-#### Connect with me:
+## Connect with me
+
+<div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Telegram Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)][facebook]
