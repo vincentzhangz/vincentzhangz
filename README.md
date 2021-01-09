@@ -95,7 +95,7 @@
 <br>
 
 [![Website](https://img.shields.io/website?label=vincentzhangz.com&style=for-the-badge&url=https%3A%2F%2Fvincentzhangz.com)][website]
-
+<!--- 
 <br>
 
 ![vincentzhangz's github stats](https://github-readme-stats.vincentzhangz.vercel.app/api?username=vincentzhangz&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true)
@@ -103,7 +103,7 @@
 <br>
 
 [![Most Used Languages](https://github-readme-stats.vincentzhangz.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 <br>
 
 ![Metrics](https://github.com/vincentzhangz/vincentzhangz/blob/main/metrics.svg)
