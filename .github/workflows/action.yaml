@@ -23,5 +23,3 @@ jobs:
           plugin_languages: yes
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_projects: yes
-          plugin_projects_limit: 2
