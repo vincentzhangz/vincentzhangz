@@ -104,6 +104,9 @@
 
 [![Most Used Languages](https://github-readme-stats.vincentzhangz.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+![Metrics](https://github.com/vincentzhangz/vincentzhangz/blob/main/github-metrics.svg)
 </div>
 
 [website]: https://vincentzhangz.com
