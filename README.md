@@ -106,7 +106,7 @@
 
 <br>
 
-![Metrics](https://github.com/vincentzhangz/vincentzhangz/blob/main/github-metrics.svg)
+![Metrics](https://github.com/vincentzhangz/vincentzhangz/blob/main/metrics.svg)
 </div>
 
 [website]: https://vincentzhangz.com
