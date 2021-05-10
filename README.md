@@ -102,12 +102,8 @@
 
 <br>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact)
 <br>
-<!--- 
-![Metrics](https://github.com/vincentzhangz/vincentzhangz/blob/main/metrics.svg)
--->
-
 
 </div>
 
