@@ -2,8 +2,7 @@
 
 ## I am
 
-- 😃 a Binus University Computer Science Student, Developer, and Teaching Assistant at Binus University!
-- 🌱 currently learning flutter and A.I
+- 😃 a Binus University Computer Science Student, Developer, Network Administrator and Technical Support Staff at Binus University!
 - 💡 proficient in Web and DevOps Technologies
 
 <div align="right">
@@ -44,6 +43,7 @@
 ![GraphQl](https://img.shields.io/badge/-GraphQL-303030?style=flat&logo=graphql)
 ![Laravel](https://img.shields.io/badge/-Laravel-303030?style=flat&logo=laravel&logoColor=FF2D20)
 ![NestJS](https://img.shields.io/badge/-NestJS-303030?style=flat&logo=nestjs&logoColor=E0234E)
+![Next.js](https://img.shields.io/badge/-Next.js-303030?style=flat&logo=next.js)
 
 </div>
 
@@ -91,6 +91,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Telegram Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)][facebook]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-ffa116?style=flat-square&logo=LeetCode&logoColor=white)][leetcode]
+    
 
 <br>
 
@@ -111,3 +113,4 @@
 [linkedin]: https://www.linkedin.com/in/vincentzhangz
 [facebook]: https://www.facebook.com/vincentzhangzz
 [instagram]: https://instagram.com/vincentzhangz
+[leetcode]: https://leetcode.com/vincentzhangz/
