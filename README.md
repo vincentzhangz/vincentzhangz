@@ -99,15 +99,18 @@
 [![Website](https://img.shields.io/website?label=vincentzhangz.com&style=for-the-badge&url=https%3A%2F%2Fvincentzhangz.com)][website]
 
 <br>
-
-![vincentzhangz's github stats](https://github-readme-stats.vercel.app/api?username=vincentzhangz&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true)
-
-<br>
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact)
-<br>
-
+    
 </div>
+
+<details> 
+<summary><h3>🔥 My Stats</h3></summary>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=vincentzhangz&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact&theme=react&hide_border=true" height="192px"/></a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=vincentzhangz&date_format=M%20j%5B%2C%20Y%5D&theme=react&hide_border=true" height="192px"/></a>
+    
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=vincentzhangz&theme=react-dark&bg_color=20232a&hide_border=true)
+
+</details>
 
 [website]: https://vincentzhangz.com
 [linkedin]: https://www.linkedin.com/in/vincentzhangz
