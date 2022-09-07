@@ -2,7 +2,7 @@
 
 ## I am
 
-- 😃 a Binus University Computer Science Student, Developer, Network Administrator and Technical Support Staff at Binus University!
+- 😃 a Software Development Engineer In Test at Blibli.com
 - 💡 proficient in Web and DevOps Technologies
 
 <div align="right">
