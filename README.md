@@ -2,7 +2,7 @@
 
 ## I am
 
-- 😃 a Software Development Engineer In Test at Blibli.com
+- 😃 Associate Software Development Engineer in Test (SDET) at Blibli.com
 - 💡 proficient in Web and DevOps Technologies
 
 <div align="right">
@@ -108,7 +108,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact&theme=react&hide_border=true" height="192px"/></a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=vincentzhangz&date_format=M%20j%5B%2C%20Y%5D&theme=react&hide_border=true" height="192px"/></a>
     
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=vincentzhangz&theme=react-dark&bg_color=20232a&hide_border=true)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vincentzhangz&theme=react-dark&bg_color=20232a&hide_border=true)
 
 </details>
 
