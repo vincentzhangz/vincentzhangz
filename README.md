@@ -2,7 +2,7 @@
 
 ## I am
 
-- 😃 Associate Software Development Engineer in Test (SDET) at Blibli.com
+- 😃 Associate Data Infrastructure (Site Reliability Engineer) at shopee.co.id
 - 💡 proficient in Web and DevOps Technologies
 
 <div align="right">
@@ -28,6 +28,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-303030?style=flat&logo=kotlin)
 ![PHP](https://img.shields.io/badge/-PHP-303030?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-303030?style=flat&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-303030?style=flat&logo=rust)
 ![SASS](https://img.shields.io/badge/-SASS-303030?style=flat&logo=sass)
 ![Swift](https://img.shields.io/badge/-Swift-303030?style=flat&logo=swift)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-303030?style=flat&logo=typescript)
@@ -39,7 +40,6 @@
 <div align="center">
 
 ![Angular](https://img.shields.io/badge/-Angular-303030?style=flat&logo=angular&logoColor=DD0031)
-![Flutter](https://img.shields.io/badge/-Flutter-303030?style=flat&logo=flutter)
 ![GraphQl](https://img.shields.io/badge/-GraphQL-303030?style=flat&logo=graphql)
 ![Laravel](https://img.shields.io/badge/-Laravel-303030?style=flat&logo=laravel&logoColor=FF2D20)
 ![NestJS](https://img.shields.io/badge/-NestJS-303030?style=flat&logo=nestjs&logoColor=E0234E)
