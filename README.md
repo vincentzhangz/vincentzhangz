@@ -86,13 +86,13 @@ I am 🚀 Associate Data Infrastructure at shopee.co.id and proficient in Web an
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=vincentzhangz&margin-w=10&margin-h=10&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vincentzhangz&api_domain=codestats.vincentzhangz.com&display_format=percent&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats-beryl-delta-65.vercel.app/api/wakatime?username=vincentzhangz&api_domain=codestats.vincentzhangz.com&display_format=percent&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Language" src="https://github-readme-stats-nine-eta-47.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact&theme=react&hide_border=true" height="192px"/></a></br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats-nine-eta-47.vercel.app/api?username=vincentzhangz&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a></br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Language" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact&theme=react&hide_border=true" height="192px"/></a></br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api?username=vincentzhangz&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a></br>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=vincentzhangz&date_format=M%20j%5B%2C%20Y%5D&theme=react&hide_border=true" height="192px"/></a></br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-peach-kappa.vercel.app/graph?username=vincentzhangz&theme=react-dark&hide_border=true&bg_color=20232a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-psi-tawny.vercel.app/graph?username=vincentzhangz&theme=react-dark&hide_border=true&bg_color=20232a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
