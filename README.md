@@ -38,6 +38,7 @@ I am 🚀 Associate Data Infrastructure at shopee.co.id and proficient in Web an
 ![MongoDB](https://img.shields.io/badge/-MongoDB-303030?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-303030?style=flat&logo=mysql&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-303030?style=flat&logo=postgresql&logoColor=336791)
+![SurrealDB](https://img.shields.io/badge/-SurrealDB-303030?style=flat&logo=surrealdb&logoColor=FF00A0)
 
 </div>
 
@@ -45,11 +46,14 @@ I am 🚀 Associate Data Infrastructure at shopee.co.id and proficient in Web an
 
 <div align="left">
 
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-303030?style=flat&logo=argo)
 ![Bun](https://img.shields.io/badge/-Bun-303030?style=flat&logo=bun)
 ![Docker](https://img.shields.io/badge/-Docker-303030?style=flat&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-303030?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-303030?style=flat&logo=github&logoColor=ffffff)
+![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-303030?style=flat&logo=hoppscotch&logoColor=#09090B)
 ![PostMan](https://img.shields.io/badge/-PostMan-303030?style=flat&logo=postman&logoColor=FF6C37)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-303030?style=flat&logo=kubernetes&logoColor=326CE5)
 ![NginX](https://img.shields.io/badge/-NginX-303030?style=flat&logo=nginx)
 ![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat&logo=node.js&logoColor=339933)
 ![VsCode](https://img.shields.io/badge/-VSCode-303030?style=flat&logo=visual-studio-code&logoColor=1575F9)
