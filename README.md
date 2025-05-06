@@ -92,7 +92,7 @@ I am 🚀 Associate Data Infrastructure at shopee.co.id and proficient in Web an
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Language Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/wakatime?username=vincentzhangz&api_domain=codestats.vincentzhangz.com&display_format=percent&layout=compact&theme=react&hide_border=true" height="350px"/></a></br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Language" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact&theme=react&hide_border=true" height="192px"/></a></br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api?username=vincentzhangz&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a></br>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=vincentzhangz&date_format=M%20j%5B%2C%20Y%5D&theme=react&hide_border=true" height="192px"/></a></br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-pi.vercel.app?user=vincentzhangz&theme=react&hide_border=true" alt="GitHub Streak" /></a></br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Github Streak" src="https://github-readme-activity-graph-psi-tawny.vercel.app/graph?username=vincentzhangz&theme=react-dark&hide_border=true&bg_color=20232a"/></a>
 </details>
 
