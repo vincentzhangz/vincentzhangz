@@ -33,8 +33,6 @@ I'm an **Associate AI Solution Engineer at Shopee** who enjoys building **automa
 <div align="left">
 
 ![Next.js](https://img.shields.io/badge/-Next.js-303030?style=flat&logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-303030?style=flat&logo=nestjs&logoColor=E0234E)
-![Laravel](https://img.shields.io/badge/-Laravel-303030?style=flat&logo=laravel&logoColor=FF2D20)
 
 </div>
 
