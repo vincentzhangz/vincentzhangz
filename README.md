@@ -6,10 +6,11 @@ I'm an **Associate AI Solution Engineer at Shopee** who enjoys building **automa
 - 🖥️ Current role: **Associate AI Solution Engineer at Shopee**
 - ⭐ Current favorite programming language: **Rust**
 - ⚙️ Current interests:
-  - Automation
-  - Orchestration
-  - Monitoring
-  - Custom tooling
+  - AI agents & orchestration
+  - Rust-powered tooling
+  - Browser automation & scraping systems
+  - Infrastructure & observability
+  - Custom developer workflows
 
 ## 👨‍💻 Languages I use
 <div align="left">
