@@ -1,9 +1,9 @@
 ## Hi there, I'm Vincent <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
-I'm a **Data Infrastructure engineer** who enjoys building **automation systems**, **developer tools**, and **Rust-powered software**.
+I'm an **Associate AI Solution Engineer at Shopee** who enjoys building **automation systems**, **developer tools**, and **Rust-powered software**.
 
 ## 💼 A brief about me
-- 🖥️ Current role: **Data Infrastructure**
+- 🖥️ Current role: **Associate AI Solution Engineer at Shopee**
 - ⭐ Current favorite programming language: **Rust**
 - ⚙️ Current interests:
   - Automation
