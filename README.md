@@ -79,7 +79,6 @@ I'm an **Associate AI Solution Engineer at Shopee** who enjoys building **automa
 <details>
 <summary><h3>🔥 My Stats</h3></summary>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=vincentzhangz&margin-w=10&margin-h=10&no-frame=true&theme=nord" width="100%"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WakaTime Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/wakatime?username=vincentzhangz&api_domain=codestats.vincentzhangz.com&display_format=percent&layout=compact&theme=react&hide_border=true" height="350px"/></a></br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Language" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact&theme=react&hide_border=true" height="192px"/></a></br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api?username=vincentzhangz&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a></br>
