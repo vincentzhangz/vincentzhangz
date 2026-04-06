@@ -79,7 +79,7 @@ I'm an **Associate AI Solution Engineer at Shopee** who enjoys building **automa
 <details>
 <summary><h3>🔥 My Stats</h3></summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WakaTime Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/wakatime?username=vincentzhangz&api_domain=codestats.vincentzhangz.com&display_format=percent&layout=compact&theme=react&hide_border=true" height="350px"/></a></br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WakaTime Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/wakatime?username=vincentzhangz&api_domain=codestats.laeb.my.id&display_format=percent&layout=compact&theme=react&hide_border=true" height="350px"/></a></br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Language" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact&theme=react&hide_border=true" height="192px"/></a></br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api?username=vincentzhangz&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a></br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-rosy.vercel.app?user=vincentzhangz&theme=react&hide_border=true" alt="GitHub Streak" /></a></br>
