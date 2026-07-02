@@ -69,7 +69,7 @@ I'm an **Associate AI Solution Engineer at Shopee** who enjoys building **automa
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)][linkedin]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)][instagram]
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)][facebook]
+[![Email Badge](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)][email]
 
 </div>
 
@@ -79,7 +79,7 @@ I'm an **Associate AI Solution Engineer at Shopee** who enjoys building **automa
 <details>
 <summary><h3>🔥 My Stats</h3></summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WakaTime Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/wakatime?username=vincentzhangz&api_domain=codestats.laeb.my.id&display_format=percent&layout=compact&theme=react&hide_border=true" height="350px"/></a></br>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WakaTime Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/wakatime?username=vincentzhangz&api_domain=codestats.laeb.my.id&display_format=percent&layout=compact&theme=react&hide_border=true" height="350px"/></a></br> -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Language" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact&theme=react&hide_border=true" height="192px"/></a></br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api?username=vincentzhangz&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a></br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-rosy.vercel.app?user=vincentzhangz&theme=react&hide_border=true" alt="GitHub Streak" /></a></br>
@@ -88,5 +88,5 @@ I'm an **Associate AI Solution Engineer at Shopee** who enjoys building **automa
 
 [website]: https://vincentzhangz.com
 [linkedin]: https://www.linkedin.com/in/vincentzhangz
-[facebook]: https://www.facebook.com/vincentzhangzz
+[email]: mailto:vincentzhangz@outlook.com
 [instagram]: https://instagram.com/vincentzhangz
