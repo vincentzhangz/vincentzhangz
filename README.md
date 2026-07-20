@@ -79,10 +79,10 @@ I'm an **Associate AI Solution Engineer at Shopee** who enjoys building **automa
 <details>
 <summary><h3>🔥 My Stats</h3></summary>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WakaTime Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/wakatime?username=vincentzhangz&api_domain=codestats.laeb.my.id&display_format=percent&layout=compact&theme=react&hide_border=true" height="350px"/></a></br> -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Language" src="https://github-readme-stats-beryl-delta-65.vercel.app/api/top-langs/?username=vincentzhangz&layout=compact&theme=react&hide_border=true" height="192px"/></a></br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats-beryl-delta-65.vercel.app/api?username=vincentzhangz&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a></br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-rosy.vercel.app?user=vincentzhangz&theme=react&hide_border=true" alt="GitHub Streak" /></a></br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=vincentzhangz&layout=compact&langs_count=6&theme=default_repocard)](https://wakatime.com/@vincentzhangz)</br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vincentzhangz&layout=compact&langs_count=6&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=vincentzhangz&layout=compact&langs_count=6&theme=default_repocard)</br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vincentzhangz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=vincentzhangz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=default_repocard)</br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-rosy.vercel.app?user=vincentzhangz&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GitHub Activity Graph" src="https://github-readme-activity-graph-psi-tawny.vercel.app/graph?username=vincentzhangz&theme=react-dark&hide_border=true&bg_color=20232a"/></a>
 </details>
 
